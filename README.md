@@ -6,8 +6,6 @@ Este espacio contiene diversos proyectos y ejercicios prácticos que simulan ent
 
 ## 🗂️ Índice de Proyectos
 
-*(Añade a esta lista cada vez que subas una nueva carpeta con un proyecto)*
-
 * **[01_Limpieza_y_Filtros](./01_Limpieza_y_Filtros):** Identificación y eliminación de registros duplicados para asegurar la integridad de bases de datos.
 * **[02_Funciones_Busqueda_y_Logica](./02_Funciones_Busqueda_y_Logica):** Cruce de tablas con `BUSCARV` y toma de decisiones automáticas con la función `SI`.
 * **[03_Dashboards_Interactivos](./03_Dashboards_Interactivos):** Construcción de reportes de ventas usando Validación de Datos, listas desplegables y la función `SUMAR.SI`.
@@ -21,4 +19,4 @@ Este espacio contiene diversos proyectos y ejercicios prácticos que simulan ent
 
 ## 📬 Contacto
 - **LinkedIn:** []
-- **Email:** [felixrasconjorgeantonio8@gmail.com]
+- **Email:** felixrasconjorgeantonio8@gmail.com
